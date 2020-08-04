@@ -6,13 +6,14 @@ description: >
   Upcoming Features
 ---
 
-A few ideas for upcoming features:
+A few upcoming features:
  - Implement the grant type, `confidential_client`.
  - Private API with `/client-info`.
  - Private API to manage data.
     - depends on `confidential_client`.
  - Publish events instead of commands.
-    - depends on API
+    - depends on, `confidential_client`.
+    - depends on API.
  - Dynamic front-end templating.
  - Minimize front-end assets.
  - Dynamic email templates.

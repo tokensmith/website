@@ -1,6 +1,9 @@
 FROM alpine:3.12.0 AS builder
 LABEL stage=tokensmith_website_builder
 
+ARG HUGO_ENV
+ENV HUGO_ENV $HUGO_ENV
+
 RUN  \
     apk update && \
     apk upgrade && \
@@ -17,7 +20,7 @@ RUN npm install --no-optional && \
     hugo
 
 
-FROM nginx
+FROM nginx:alpine
 
 COPY --from=builder /application/public /usr/share/nginx/html
 

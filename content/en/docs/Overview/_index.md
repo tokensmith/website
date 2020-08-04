@@ -8,9 +8,10 @@ description: >
 
 ## About
 
-Tokensmith is an opensource OAuth 2.0 and OIDC Identity Server.
+Tokensmith is an opensource OAuth 2.0 and OIDC Identity Server. 
 
-### grant types
+#### response types
+The authorization endpoint supports the following response types.
 
 OAuth 2.0:
  - authorization_code
@@ -20,6 +21,14 @@ OpenID:
  - authorization_code
  - token
  - id_token
+ 
+
+#### grant types
+The token endpoint supports the following grant types.
+
+ - code
+ - password
+ - refresh_token
 
 ## Dependencies
 

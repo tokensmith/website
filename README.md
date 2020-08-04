@@ -19,11 +19,11 @@ docker run -p 1312:1312 -e PORT=1312
 gcloud auth login
 gcloud auth configure-docker
 
-docker build -t site .
+docker build --build-arg HUGO_ENV="production" -t site .
 docker tag site gcr.io/[PROJECT-ID]/site
 docker push gcr.io/[PROJECT-ID]/site
 
-gcloud run deploy site --image gcr.io/[PROJECT-ID/site
+gcloud run deploy site --image gcr.io/[PROJECT-ID/site --region us-central1 --platform managed
 ```
 
 ## Take down site
