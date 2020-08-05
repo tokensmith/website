@@ -1,6 +1,6 @@
 ---
 title: "Database Seeds"
-linkTitle: "database Seeds"
+linkTitle: "database seeds"
 weight: 2
 date: 2020-08-05
 description: >
