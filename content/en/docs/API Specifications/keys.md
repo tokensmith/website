@@ -1,8 +1,8 @@
 ---
 title: "keys"
-linkTitle: "/keys"
-weight: 3
-date: 2017-01-05
+linkTitle: "keys"
+weight: 1
+date: 2020-08-05
 description: >
   API specifications for /keys
 ---

@@ -1,8 +1,8 @@
 ---
 title: "token"
-linkTitle: "/token"
-weight: 3
-date: 2017-01-05
+linkTitle: "token"
+weight: 2
+date: 2020-08-05
 description: >
   API specifications for /token
 ---

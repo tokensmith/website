@@ -11,7 +11,7 @@ hugo server
 ## Running the website with docker
 ```
 docker build -t site .
-docker run -p 1312:1312 -e PORT=1312
+docker run -p 1312:1312 -e PORT=1312 site
 ```
 
 ## Deploy

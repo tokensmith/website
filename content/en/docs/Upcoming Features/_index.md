@@ -23,3 +23,4 @@ A few upcoming features:
 ### Next
 
 * [Get in touch](/docs/get-in-touch/)
+* [Contribute](/docs/contribute/)
