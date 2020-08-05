@@ -1,8 +1,8 @@
 ---
 title: "user-info"
-linkTitle: "/user-info"
+linkTitle: "user-info"
 weight: 3
-date: 2017-01-05
+date: 2020-08-05
 description: >
   API specifications for /user-info
 ---

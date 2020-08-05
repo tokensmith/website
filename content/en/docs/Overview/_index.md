@@ -36,7 +36,7 @@ Tokensmith depends on Kafka and Postgres.
 
 ### Kafka
 
-messages (commands) are published to Kafka when:
+messages (commands) are published to the topic, `message-user` in Kafka when:
  - A user registers.
  - A user requests their password to be reset.
  - A user successfully reset their password.
