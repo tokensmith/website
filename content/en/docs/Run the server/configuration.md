@@ -1,6 +1,6 @@
 ---
 title: "Configuration"
-linkTitle: "Configuration"
+linkTitle: "configuration"
 weight: 1
 date: 2020-08-05
 description: >
