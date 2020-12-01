@@ -8,7 +8,7 @@ description: >
 
 ### Configuration
 
-If you'd like Tokensmith to send emails to users then you'll need to set the following environment variables.
+If you'd like *Tokensmith* to send emails to users then you'll need to set the following environment variables.
 ```
 SMTP_HOST="your.smtp.server"
 SMTP_USER="your.smtp.user"
@@ -34,7 +34,7 @@ make ps
 ```
 
 ### Quick start interactions
-Once Tokensmith is running these links should render.
+Once *Tokensmith* is running these links should render.
 
  - [register](http://localhost:8081/register) a resource user
  - [reset a password](http://localhost:8081/forgot-password) for a resource owner

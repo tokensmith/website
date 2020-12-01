@@ -3,12 +3,12 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Introduction to Tokensmith
+  Introduction to *Tokensmith*
 ---
 
 ## About
 
-Tokensmith is an opensource OAuth 2.0 and OIDC Identity Server. 
+*Tokensmith* is an opensource OAuth 2.0 and OIDC Identity Server. 
 
 #### response types
 The authorization endpoint supports the following response types.
@@ -32,7 +32,7 @@ The token endpoint supports the following grant types.
 
 ## Dependencies
 
-Tokensmith depends on Kafka and Postgres.
+*Tokensmith* depends on Kafka and Postgres.
 
 ### Kafka
 
@@ -49,7 +49,7 @@ Postgres is used as the database.
 
 ## License
 
-Tokensmith is [licensed](https://github.com/tokensmith/tokensmith/blob/main/LICENSE.txt) with the Apache License 2.0.
+*Tokensmith* is [licensed](https://github.com/tokensmith/tokensmith/blob/main/LICENSE.txt) with the Apache License 2.0.
   
 ### Next
 
