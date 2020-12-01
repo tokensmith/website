@@ -1,8 +1,8 @@
-# Tokensmith Website
+# *Tokensmith* Website
 
 This project was originally cloned from, [Docsy](https://github.com/google/docsy).
 
-Documentation for [Tokensmith](https://tokensmith.net).
+Documentation for [*Tokensmith*](https://tokensmith.net).
 
 ## Running the website locally
 ```

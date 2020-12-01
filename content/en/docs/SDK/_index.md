@@ -7,7 +7,7 @@ description: >
 ---
 
 ## Login
-Tokensmith has a Java SDK, [Login](https://github.com/tokensmith/tokensmith/tree/main/login).
+*Tokensmith* has a Java SDK, [Login](https://github.com/tokensmith/tokensmith/tree/main/login).
 
 ## Configuration
 You'll need to set the following environment variables (replace where necessary):

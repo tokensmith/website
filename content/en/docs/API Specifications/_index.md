@@ -11,7 +11,7 @@ description: >
 ### Overview
 
 The API specifications are good if you'd like to write an SDK or troubleshoot an issue. 
-Up next is the SDK which simplifies connecting a client to tokensmith.
+Up next is the SDK which simplifies connecting a client to *Tokensmith*.
 
 ### Next
 
